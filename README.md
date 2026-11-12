@@ -1,6 +1,11 @@
 # Laboratorio de Ansible con Docker
 
 
+
+bjetivo de la práctica
+Automatizar la configuración y gestión de dos contenedores basados en Ubuntu 24.04 utilizando Ansible como herramienta de infraestructura como código (IaC).
+
+
 ## Comandos para iniciar los contenedores
 1. Construir y levantar los servicios:
    ```bash
